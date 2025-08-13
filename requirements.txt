@@ -1,0 +1,22 @@
+appdirs==1.4.4
+beautifulsoup4==4.13.4
+certifi==2025.8.3
+charset-normalizer==3.4.3
+frozendict==2.4.6
+idna==3.10
+lxml==6.0.0
+numpy==2.3.2
+pandas==2.3.1
+pandas-stubs==2.3.0.250703
+peewee==3.18.2
+python-dateutil==2.9.0.post0
+pytz==2025.2
+requests==2.32.4
+setuptools==80.9.0
+six==1.17.0
+soupsieve==2.7
+-e git+https://github.com/MrFanciful/Stochastic-Finance-with-Python.git@97c143a7c1695905e7a929b96c06537334a92350#egg=stochastic_finance_python_code
+typing_extensions==4.14.1
+tzdata==2025.2
+urllib3==2.5.0
+yahoofinancials==1.20
